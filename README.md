@@ -78,4 +78,5 @@ This prints the summaries, saves `age_distribution.png` and writes `titanic_clea
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ## Author
-**Ayush**, B.Tech Computer Science (AI & ML)
+**Ayush**, B.Tech Computer Science and Engineering
+
